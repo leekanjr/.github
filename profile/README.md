@@ -1,5 +1,6 @@
 <div align="center">
 
+<img src="./leekanjun-security-banner.png" alt="LeeKan Jun — Security Researcher & Ethical Hacker" width="100%" />
 
 # `LeeKan Jun`
 
