@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- Hero image: add your banner at assets/leekanjun-security-banner.png -->
-<img src="https://haycafe.vn/wp-content/uploads/2021/12/hinh-anh-hacker.jpg" alt="LeeKan Jun — Security Researcher & Ethical Hacker" width="100%" />
 
 # `LeeKan Jun`
 
