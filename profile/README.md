@@ -173,13 +173,6 @@ If you believe a public repository exposes something that should be handled priv
 
 <div align="center">
 
-```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│   OBSERVE → UNDERSTAND → BREAK → LEARN → HARDEN     │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-```
 
 ### `Stay curious. Verify everything. Trust deliberately.`
 
